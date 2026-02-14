@@ -1,0 +1,4 @@
+question2\question2_student_api\controller\StudentController.class
+question2\question2_student_api\Question2StudentApiApplication.class
+question2\question2_student_api\service\StudentService.class
+question2\question2_student_api\model\Student.class
